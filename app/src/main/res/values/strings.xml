@@ -714,4 +714,7 @@
     <string name="compose_message">Compose message</string>
     <string name="mark_all_as_read">Mark all as read</string>
     <string name="btn_changelog">Changelog</string>
+
+    <string name="misc_rate_title">Like Slide?</string>
+    <string name="misc_rate_msg">Rate it!</string>
 </resources>
